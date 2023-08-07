@@ -10,7 +10,7 @@
 - <b>Third Person Adventure RPG (Current)</b>
 
 <h2>Certifications</h2>
-All information regarding certications are found within my CV for privacy reasons
+All information regarding certifications are found within my CV for privacy reasons
 
 
 <!--
